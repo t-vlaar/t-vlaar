@@ -1,4 +1,6 @@
-## Hi there 👋
+## Greetings
+
+- Currently a student at *Robert Gordon's University*.
 
 <!--
 **t-vlaar/t-vlaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
